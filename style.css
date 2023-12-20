@@ -1,0 +1,390 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    width: 100%;
+    height: 25px;
+    background-color: black;
+}
+.bar-text{
+    display: flex;
+    color: aliceblue;
+    
+}
+.w3{
+    
+    width: 150px;
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
+    padding-left: 50px;
+    margin-top: -70px;
+
+}
+.imgi{
+   
+    margin-left: 920px;
+}
+.bar-text p{
+    
+margin-right: 10px;
+
+
+
+}
+.logo{
+    background-color: rgb(26, 97, 73);
+    
+}
+.surat1{
+    width: 100%;
+    height: 800px;
+
+}
+.surat1 img{
+    width: 100%;
+    height: 800px;
+}
+.glavniy2{
+    width: 100%;
+    height: 400px;
+    
+}
+.div2-text{
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+}
+.div2-text h1{
+margin-top: 70px;
+}
+.glavniy2{
+    width: 100%;
+    height: 400px;
+}
+.suratmini{
+    display: flex;
+width: 300px;
+height: 400px;
+margin-left: 20px;
+text-align: center;
+}
+.suratmini1{
+    margin-left: 50px;
+}
+.suratmini1 img{
+    padding: 20px;
+    margin: auto;
+    margin-left: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.glavniy3{
+    padding: 40px;
+    display: flex;
+    width: 100%;
+    height: 400px;
+  
+}
+.text-div{
+    width: 300px;
+    background-color: black;
+    border: 2px solid red;
+    text-align: center;
+}
+.text-div h1{
+    color: white;
+
+}
+.text-div p{
+    width: 100%;
+    color: white;
+    line-height: 50px;
+}
+.theme{
+    margin-left: 30px;
+    width: 300px;
+    height: 400px;
+    border: 2px solid red;
+    
+}
+.theme img{
+    width: 300px;
+    height: 200px;
+}
+
+.glavni4{
+    width: 100%;
+    height: 600px;
+  
+    margin-top: 50px;
+    
+
+}
+.flex{
+    display: flex;
+    
+}
+
+.g41{
+    width: 400px;
+    height: 430px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 14px;
+    margin-top: 60px;
+    margin-right: 15px;
+    box-shadow: 10px 25px 10px rgb(56, 54, 54);
+}
+.g41 p{
+    color: grey;
+    margin-left: 150px;
+    margin-top: -25px;
+}
+.g42 p{
+    color: grey;
+    margin-left: 150px;
+    margin-top: -25px; 
+}
+.g43 p{
+    color: grey;
+    margin-left: 150px;
+    margin-top: -25px;
+}
+
+.bas{
+    height: 50px;
+background-color: black;
+color: aliceblue;
+padding-left: 160px;
+padding-top: 10px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.gl4_1{
+    display: flex;
+    border: 1px solid red;
+    height: 50px;
+    padding-left: 130px;
+    padding-top: 10px;
+}
+.gb10{
+    font-size: 25px;
+        padding-right: 10px;
+
+}
+
+.stor{
+    font-weight: 100;
+    font-size: 25px;
+}
+
+.glav{
+    width: 60px;
+    margin: auto;
+    font-weight: 100;
+}
+
+.glavni{
+    background-color: beige;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+
+.g42{
+    width: 400px;
+    height: 430px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 14px;
+    margin-top: 60px;
+    margin-right: 15px;
+    box-shadow: 10px 25px 10px rgb(56, 54, 54);
+}
+
+.g43{
+    width: 400px;
+    height: 430px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 14px;
+    margin-top: 60px;
+    box-shadow: 10px 25px 10px rgb(56, 54, 54);
+}
+
+.gl4_2{
+    display: flex;
+    border: 1px solid red;
+    height: 50px;
+    padding-left: 130px;
+    padding-top: 10px;
+}
+.el10{
+    font-size: 25px;
+    padding-right: 10px;
+
+}
+
+.emeil{
+    font-weight: 100;
+    font-size: 25px;
+}
+
+
+.gl4_3{
+    display: flex;
+    border: 1px solid red;
+    height: 50px;
+    padding-left: 130px;
+    padding-top: 10px;
+}
+.do10{
+    font-size: 25px;
+    padding-right: 10px;
+
+}
+
+.dom{
+    font-weight: 100;
+    font-size: 25px;
+}
+
+
+.gl4_4{
+    display: flex;
+    border: 1px solid red;
+    height: 50px;
+    padding-left: 130px;
+    padding-top: 10px;
+}
+.end{
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+.suport{
+    font-weight: 100;
+    font-size: 25px;
+}
+
+
+.golar{
+    display: flex;
+    border: 1px solid red;
+    height: 50px;
+    padding-left: 130px;
+    padding-top: 10px;
+    background-color: grey;
+}
+.dol{
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+.dol10{
+    font-weight: 100;
+    font-size: 30px;
+}
+
+.sing{
+    width: 80px;
+    font-size: 10px;
+    margin: auto;
+    background-color:aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin-top: 25px;
+}
+
+
+.contact{
+    height: 400px;
+}
+
+.karta{
+    display: flex;
+}
+
+.karta p{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.karta a{
+    margin-top: 10px;
+}
+.kalon{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.contact{
+    display: flex;
+}
+
+.text_2{
+    width: 600px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 110px;
+    margin-left: 390px;
+    box-shadow: 10px 20px 10px grey;
+}
+
+.nam{
+    border: 1px solid red;
+    height: 50px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imail{
+    border: 1px solid rgb(151, 147, 147);
+    height: 50px;
+    font-size: 25px;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.mas{
+    border: 1px solid rgb(138, 135, 135);
+    height: 50px;
+    font-size: 25px;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.like{
+    border: 1px solid rgb(128, 124, 124);
+    height: 50px;
+    font-size: 25px;
+font-family: 'Courier New', Courier, monospace;
+
+}
+
+.dark{
+    height: 250px;
+    background-color: black;
+
+
+}
+
+.dark h1{
+    color: aliceblue;
+    margin: auto;
+    width: 150px;
+
+}
+
+.imgs{
+     margin-left: 550px;
+     margin-top: 25px;
+
+
+}
+
+.iop{
+ color: aliceblue;
+ margin-left: 600px;
+}
